@@ -127,7 +127,7 @@ def output():
                     print(f"{current_time.hour + 7:02}:{current_time.minute:02}:{current_time.second:02} >>> " + Back.GREEN + f"{intelobject.user:<25}{intelobject.location:<12}{intelobject.ship:<12}{intelobject.cynochance:03}%")
                     playsound(alert_path)
                 else:
-                    print(f"{current_time.hour + 7:02}:{current_time.minute:02}:{current_time.second:02} >>> " + Back.RED + f"{intelobject.user:<25}{intelobject.location:<10}{intelobject.ship:<12}{intelobject.cynochance:03}%")
+                    print(f"{current_time.hour + 7:02}:{current_time.minute:02}:{current_time.second:02} >>> " + Back.RED + f"{intelobject.user:<25}{intelobject.location:<12}{intelobject.ship:<12}{intelobject.cynochance:03}%")
                     playsound(alert_path)
             temp_message = intel
         time.sleep(.5)
