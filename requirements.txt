@@ -1,0 +1,6 @@
+click==7.1.2
+colorama==0.4.3
+joblib==0.16.0
+playsound==1.2.2
+regex==2020.7.14
+tqdm==4.48.2

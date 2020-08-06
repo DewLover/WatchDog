@@ -1,0 +1,1 @@
+Backup files in this folder contain the lists of every ship and system in the game, purely for convienience. DO NOT EDIT
