@@ -4,14 +4,14 @@ Adrestia
 Aeon
 Algos
 Amarr Shuttle
-Anathema
+Anathema*
 Anshar
 Apocalypse
 Apocalypse Imperial Issue
 Apocalypse Navy Issue
 Apostle
 Apotheosis
-Arazu
+Arazu*
 Arbitrator
 Archon
 Ares
@@ -42,7 +42,7 @@ Brutix
 Brutix Navy Issue
 Burst
 Bustard
-Buzzard
+Buzzard*
 Caedes
 Caiman
 Caldari Navy Hookbill
@@ -55,7 +55,7 @@ Celestis
 Cerberus
 Chameleon
 Charon
-Cheetah
+Cheetah*
 Chemosh
 Chimera
 Chremoas
@@ -68,7 +68,7 @@ Corax
 Cormorant
 Council Diplomatic Shuttle
 Covetor
-Crane
+Crane*
 Crow
 Crucifier
 Crucifier Navy Issue
@@ -100,11 +100,11 @@ Eos
 Epithal
 Erebus
 Eris
-Etana
+Etana*
 Executioner
 Exequror
 Exequror Navy Issue
-Falcon
+Falcon*
 Federation Navy Comet
 Fenrir
 Ferox
@@ -129,12 +129,12 @@ Harpy
 Hawk
 Hecate
 Hel
-Helios
+Helios*
 Hematos
 Heretic
 Heron
 Hoarder
-Hound
+Hound*
 Huginn
 Hulk
 Hurricane
@@ -164,13 +164,13 @@ Komodo
 Kronos
 Kryos
 Lachesis
-Legion
+Legion*
 Leopard
 Leshak
 Leviathan
 Lif
 Loggerhead
-Loki
+Loki*
 Machariel
 Mackinaw
 Maelstrom
@@ -180,7 +180,7 @@ Malediction
 Malice
 Maller
 Mammoth
-Manticore
+Manticore*
 Marshal
 Mastodon
 Maulus
@@ -206,7 +206,7 @@ Myrmidon
 Naga
 Naglfar
 Navitas
-Nemesis
+Nemesis*
 Nereus
 Nestor
 Nidhoggur
@@ -230,11 +230,11 @@ Osprey
 Osprey Navy Issue
 Pacifier
 Paladin
-Panther
+Panther*
 Phantasm
 Phobos
 Phoenix
-Pilgrim
+Pilgrim*
 Pontifex
 Porpoise
 Praxis
@@ -242,23 +242,23 @@ Primae
 Probe
 Procurer
 Prophecy
-Prorator
-Prospect
-Proteus
+Prorator*
+Prospect*
+Proteus*
 Providence
-Prowler
+Prowler*
 Punisher
-Purifier
-Rabisu
+Purifier*
+Rabisu*
 Ragnarok
-Rapier
+Rapier*
 Raptor
 Rattlesnake
 Raven
 Raven Navy Issue
 Raven State Issue
 Reaper
-Redeemer
+Redeemer*
 Republic Fleet Firetail
 Retribution
 Retriever
@@ -281,7 +281,7 @@ Scythe Fleet Issue
 Sentinel
 Sigil
 Silver Magnate
-Sin
+Sin*
 Skiff
 Slasher
 Sleipnir
@@ -302,7 +302,7 @@ Tayra
 Tempest
 Tempest Fleet Issue
 Tempest Tribal Issue
-Tengu
+Tengu*
 Thalia
 Thanatos
 Thorax
@@ -322,10 +322,10 @@ Vehement
 Velator
 Vendetta
 Vengeance
-Venture
+Venture*
 Vexor
 Vexor Navy Issue
-Viator
+Viator*
 Victor
 Victorieux Luxury Yacht
 Vigil
@@ -336,7 +336,7 @@ Violator
 Virtuoso
 Vulture
 Whiptail
-Widow
+Widow*
 Wolf
 Worm
 Wreathe
