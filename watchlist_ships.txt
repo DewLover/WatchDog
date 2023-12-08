@@ -3,6 +3,7 @@ Absolution
 Adrestia
 Aeon
 Algos
+Alligator
 Amarr Shuttle
 Anathema*
 Anshar
@@ -26,15 +27,19 @@ Atron
 Augoror
 Augoror Navy Issue
 Avatar
-Badger
+Azariel
+Badger*
+Bane
 Bantam
 Barghest
 Basilisk
 Bellicose
-Bestower
+Bestla
+Bestower*
 Bhaalgorn
 Bifrost
 Blackbird
+Boobook
 Bowhead
 Breacher
 Broadsword
@@ -43,29 +48,33 @@ Brutix Navy Issue
 Burst
 Bustard
 Buzzard*
-Caedes
+Caedes*
 Caiman
 Caldari Navy Hookbill
 Caldari Shuttle
 Cambion
+Capsule
 Caracal
 Caracal Navy Issue
 Catalyst
+Catalyst Navy Issue
 Celestis
 Cerberus
-Chameleon
+Chameleon*
 Charon
 Cheetah*
 Chemosh
 Chimera
-Chremoas
+Chremoas*
 Claw
 Claymore
 Coercer
+Coercer Navy Issue
 Condor
 Confessor
 Corax
 Cormorant
+Cormorant Navy Issue
 Council Diplomatic Shuttle
 Covetor
 Crane*
@@ -74,8 +83,10 @@ Crucifier
 Crucifier Navy Issue
 Cruor
 Crusader
-Curse
+Curse*
+Cybele
 Cyclone
+Cyclone Fleet Issue
 Cynabal
 Dagon
 Damavik
@@ -90,14 +101,16 @@ Dragoon
 Drake
 Drake Navy Issue
 Dramiel
+Draugur
+Drekavac
 Eagle
 Echelon
 Echo
 Endurance
-Enforcer
+Enforcer*
 Enyo
 Eos
-Epithal
+Epithal*
 Erebus
 Eris
 Etana*
@@ -108,11 +121,13 @@ Falcon*
 Federation Navy Comet
 Fenrir
 Ferox
+Ferox Navy Issue
 Fiend
 Flycatcher
 Freki
 Gallente Shuttle
 Garmur
+Geri
 Gila
 Gnosis
 Gold Magnate
@@ -133,16 +148,21 @@ Helios*
 Hematos
 Heretic
 Heron
-Hoarder
+Heron Navy Issue
+Hoarder*
 Hound*
-Huginn
+Hubris
+Huginn*
 Hulk
 Hurricane
 Hurricane Fleet Issue
+Hydra*
 Hyena
 Hyperion
 Ibis
+Ikitursa
 Imicus
+Imicus Navy Issue
 Immolator
 Imp
 Impairor
@@ -153,17 +173,21 @@ Inquisitor
 InterBus Shuttle
 Ishkur
 Ishtar
-Iteron Mark V
+Iteron Mark V*
 Jackdaw
 Jaguar
+Karura
 Keres
 Kestrel
+Khizriel
+Kikimora
 Kirin
 Kitsune
 Komodo
 Kronos
-Kryos
-Lachesis
+Kryos*
+Lachesis*
+Laelaps
 Legion*
 Leopard
 Leshak
@@ -175,21 +199,25 @@ Machariel
 Mackinaw
 Maelstrom
 Magnate
+Magnate Navy Issue
 Magus
 Malediction
 Malice
 Maller
-Mammoth
+Mamba
+Mammoth*
 Manticore*
-Marshal
+Marshal*
 Mastodon
 Maulus
 Maulus Navy Issue
 Megathron
 Megathron Federate Issue
 Megathron Navy Issue
+Mekubal
 Merlin
-Miasmos
+Metamorphosis
+Miasmos*
 Miasmos Amastris Edition
 Miasmos Quafe Ultra Edition
 Miasmos Quafe Ultramarine Edition
@@ -199,15 +227,19 @@ Minokawa
 Moa
 Molok
 Monitor
-Moracha
+Moracha*
 Moros
+Moros Navy Issue
 Muninn
 Myrmidon
+Myrmidon Navy Issue
 Naga
 Naglfar
+Naglfar Fleet Issue
 Navitas
 Nemesis*
-Nereus
+Nereus*
+Nergal
 Nestor
 Nidhoggur
 Nighthawk
@@ -228,20 +260,23 @@ Orca
 Orthrus
 Osprey
 Osprey Navy Issue
-Pacifier
+Pacifier*
 Paladin
 Panther*
 Phantasm
 Phobos
 Phoenix
+Phoenix Navy Issue
 Pilgrim*
 Pontifex
 Porpoise
 Praxis
 Primae
 Probe
+Probe Fleet Issue
 Procurer
 Prophecy
+Prophecy Navy Issue
 Prorator*
 Prospect*
 Proteus*
@@ -251,6 +286,7 @@ Punisher
 Purifier*
 Rabisu*
 Ragnarok
+Raiju
 Rapier*
 Raptor
 Rattlesnake
@@ -263,11 +299,13 @@ Republic Fleet Firetail
 Retribution
 Retriever
 Revelation
+Revelation Navy Issue
 Revenant
 Rhea
 Rifter
+Rodiva
 Rokh
-Rook
+Rook*
 Rorqual
 Rupture
 Sabre
@@ -279,16 +317,19 @@ Scorpion Navy Issue
 Scythe
 Scythe Fleet Issue
 Sentinel
-Sigil
+Shapash
+Sigil*
 Silver Magnate
 Sin*
 Skiff
+Skybreaker
 Slasher
 Sleipnir
 Stabber
 Stabber Fleet Issue
 Stiletto
 Stork
+Stormbringer
 Stratios
 Stratios Emergency Responder
 Succubus
@@ -298,7 +339,7 @@ Taipan
 Talos
 Talwar
 Taranis
-Tayra
+Tayra*
 Tempest
 Tempest Fleet Issue
 Tempest Tribal Issue
@@ -307,6 +348,9 @@ Thalia
 Thanatos
 Thorax
 Thrasher
+Thrasher Fleet Issue
+Thunderchild
+Tiamat*
 Tormentor
 Tornado
 Tristan
@@ -314,6 +358,7 @@ Typhoon
 Typhoon Fleet Issue
 Utu
 Vagabond
+Valravn
 Vangel
 Vanquisher
 Vargur
@@ -322,24 +367,26 @@ Vehement
 Velator
 Vendetta
 Vengeance
-Venture*
+Venture
 Vexor
 Vexor Navy Issue
 Viator*
-Victor
+Victor*
 Victorieux Luxury Yacht
 Vigil
 Vigil Fleet Issue
 Vigilant
 Vindicator
 Violator
-Virtuoso
+Virtuoso*
 Vulture
 Whiptail
 Widow*
 Wolf
 Worm
-Wreathe
+Wreathe*
 Wyvern
+Zarmazd
 Zealot
 Zephyr
+Zirnitra
